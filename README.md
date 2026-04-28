@@ -11,18 +11,20 @@ The goal is not just to solve problems, but to think like a data analyst:
 
 ## 📌 What You'll Find
 
-- ✅ Structured SQL solutions
-- ✅ Clean and readable queries
-- ✅ Step-by-step explanations
-- ✅ Real-world approach to problem solving
-- ✅ Practice across different difficulty levels
+- Structured SQL solutions
+- Clean and readable queries
+- Step-by-step explanations
+- Real-world approach to problem solving
+- Practice across different difficulty levels
 
 ---
 
 ## 🛠 Tools Used
 
-- SQL (PostgreSQL syntax mostly)
+- SQL (MySQL)
 - DataLemur Platform
+
+Note: Most queries are written in MySQL, with concepts transferable across SQL dialects.
 
 ---
 
@@ -34,8 +36,6 @@ data-lemur-sql-solutions/
 ├── medium/
 ├── hard/
 └── README.md
-
-## 📂 Folder Structure
 
 Each folder contains:
 - Problem statement (optional)
@@ -69,4 +69,3 @@ If you're also practising SQL or preparing for data roles, feel free to connect 
 ## ⭐ If You Find This Helpful
 
 Give this repo a star — it motivates me to keep building and sharing!
-

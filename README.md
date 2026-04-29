@@ -1,71 +1,95 @@
 # 🐵 DataLemur SQL Solutions
 
-This repository contains my solutions to SQL problems from DataLemur — a platform focused on real-world data interview questions.
-
-The goal is not just to solve problems, but to think like a data analyst:
-- Writing clean and optimised SQL queries
-- Understanding the business logic behind each problem
-- Improving problem-solving consistency
+> Solving real-world SQL interview problems with a focus on business logic, not just syntax.
 
 ---
 
-## 📌 What You'll Find
+## 🎯 About This Repository
 
-- Structured SQL solutions
-- Clean and readable queries
-- Step-by-step explanations
-- Real-world approach to problem solving
-- Practice across different difficulty levels
+This repository contains my SQL solutions to DataLemur problems — designed around real-world scenarios commonly asked in data analyst interviews.
+
+The goal is not just to solve problems, but to:
+- Write clean, production-style SQL
+- Think in terms of business logic
+- Build strong, interview-ready problem-solving skills
 
 ---
 
-## 🛠 Tools Used
+## 🧠 What This Repo Demonstrates
+
+- Strong understanding of joins, aggregations, and window functions  
+- Ability to translate business problems into SQL queries  
+- Writing efficient, readable, and optimised queries  
+- Handling real-world data scenarios and edge cases  
+
+---
+
+## 🛠 Tech Stack
 
 - SQL (MySQL)
-- DataLemur Platform
+- DataLemur Platform  
 
-Note: Most queries are written in MySQL, with concepts transferable across SQL dialects.
+> Most queries are written in MySQL, with concepts transferable across SQL dialects.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
 data-lemur-sql-solutions/
 │
-├── easy/
-├── medium/
-├── hard/
+├── sql-solutions/
 └── README.md
 
-Each folder contains:
-- Problem statement (optional)
-- SQL solution
-- Explanation
+Each solution includes:
+- Problem context  
+- Approach (thinking process)  
+- Final optimised query  
 
 ---
 
-## 🚀 My Approach
+## 📊 Progress
 
-Instead of jumping straight to the answer, I focus on:
-- Understanding the dataset
-- Breaking down the problem
-- Writing efficient queries
-- Keeping logic simple and readable
+Consistently solving real-world SQL problems to improve analytical thinking and interview readiness.
 
 ---
 
-## 📈 Progress Tracking
+## 💡 Approach
 
-This repo is part of my SQL learning journey where I consistently practise and improve.
+For each problem, I follow a structured workflow:
+
+1. Understand → Identify the business question  
+2. Break Down → Plan the logic and transformations  
+3. Write → Build clean, readable SQL  
+4. Optimise → Improve performance and clarity  
+5. Validate → Ensure correctness and edge cases  
+
+> Focused on writing SQL that reflects real-world decision-making, not just passing queries.
+
+---
+
+## 📈 Why This Matters
+
+SQL interviews are not about syntax — they test:
+- Problem-solving ability  
+- Logical thinking  
+- Data interpretation  
+
+This repository reflects my effort to build those skills consistently.
 
 ---
 
 ## 🤝 Connect With Me
 
-If you're also practising SQL or preparing for data roles, feel free to connect and discuss ideas.
+If you're also preparing for data roles or practising SQL, feel free to connect:
+
+🔗 https://www.linkedin.com/in/mukherjeesourav687
 
 ---
 
-## ⭐ If You Find This Helpful
+## ⭐ Support
 
-Give this repo a star — it motivates me to keep building and sharing!
+If you find this helpful, consider giving it a star — it helps keep the momentum going.
+
+---
+
+> Consistent learning. Real problems. Better decisions.
